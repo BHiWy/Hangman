@@ -1,0 +1,10 @@
+﻿  GameManager.cpp
+F:\AC\An 2\PC II\Hangman_GUI\GameManager.cpp(10,21): warning C4566: character represented by universal-character-name '\u0218' cannot be represented in the current code page (1250)
+F:\AC\An 2\PC II\Hangman_GUI\GameManager.cpp(11,21): warning C4566: character represented by universal-character-name '\u021A' cannot be represented in the current code page (1250)
+F:\AC\An 2\PC II\Hangman_GUI\GameManager.cpp(17,21): warning C4566: character represented by universal-character-name '\u0218' cannot be represented in the current code page (1250)
+  MyForm.cpp
+F:\AC\An 2\PC II\Hangman_GUI\MyForm.h(161,15): error C4368: cannot define 'Game' as a member of managed 'HangmanGUI::MyForm': mixed types are not supported
+  (compiling source file 'MyForm.cpp')
+  
+F:\AC\An 2\PC II\Hangman_GUI\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...

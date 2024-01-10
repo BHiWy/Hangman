@@ -1,0 +1,4 @@
+F:\AC\An 2\PC II\Hangman_GUI\x64\Debug\Hangman_GUI.vcxproj.AssemblyReference.cache
+F:\AC\An 2\PC II\Hangman_GUI\x64\Debug\HangmanGUI.MyForm.resources
+F:\AC\An 2\PC II\Hangman_GUI\x64\Debug\Hangman_GUI.vcxproj.GenerateResource.cache
+F:\AC\An 2\PC II\Hangman_GUI\x64\Debug\Hangman_GUI.exe
